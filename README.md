@@ -13,4 +13,4 @@ This application uses:
 ---
 ![CryptoSkills in action](https://github.com/Horiapavel98/CryptoSkills/blob/master/images/CryptoSkills.png)
 ---
-* > *Note: We understand that the current status of the application may be improved. We had a great time building this. @Contributors: lucadorinanton & tciures *
+> *Note: We understand that the current status of the application may be improved. We had a great time building this. @Contributors: lucadorinanton & tciures*
