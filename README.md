@@ -1,6 +1,6 @@
 # CryptoSkills
 
-###CryptoSkills is an application that lets the user predict the stock market of some virtual currencies available.
+### CryptoSkills is an application that lets the user predict the stock market of some virtual currencies available.
 ---
 This application uses:
 * Python
