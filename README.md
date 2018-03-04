@@ -10,3 +10,5 @@ This application uses:
 * Python and some TkInter (Python GUI stuff)
 * CEX.IO API for consistend updated data
 * Other Python packages for plotting & calculating.
+---
+![CryptoSkills in action]()
