@@ -1,5 +1,0 @@
-requests
-datetime
-matplotlib
-numpy
-tkinter
